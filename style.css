@@ -1,0 +1,523 @@
+
+.nav_bar{
+    margin-top: 50px; 
+    background-color: #1C1C1C;
+}
+.home_btn{
+    background-color: #262626; 
+    width: 75px;
+
+}
+.login_btn{
+    background-color: #CAFF33;
+    width: 75px;
+}
+.Hero_section{
+    margin-top: 158px;
+}
+.Hero_heading h2{
+    font-size: 28px;
+}
+@media only screen and (max-width: 600px) {
+    .Hero_section_Content{
+        text-align: center;
+    }
+   .subtract{
+    margin-left: 50px;
+   }
+  }
+  .Hero_section_2{
+    width: 515px; 
+    height: 580px;
+    border: 1px solid #22251B;
+    border-radius: 10px; 
+  }
+  .Hero_section_2_content{
+    padding-left: 30px; 
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+
+  /* media Qureies 600px */
+  @media only screen and (max-width: 600px) {
+    .Hero_section_Content{
+        text-align: center;
+    }
+   .subtract{
+    margin-left: 20px;
+   }
+   .Hero_section_2{
+    width: 305px; 
+    height: 368px;
+    border: 1px solid #22251B;
+    border-radius: 10px; 
+    margin-left: 40px;
+  }
+  .Hero_section_2_content{
+    padding-left: 30px; 
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+  .transations{
+    width: 264px;
+    height: 45px;
+    background-color: #1C1C1C;
+  }
+  .transations2{
+    height: 45px;
+    /* margin-left: 12px; */
+    background-color: #1C1C1C;
+    filter: brightness(85%);
+    margin: right 2px; 
+    width: auto; 
+  }
+  .Hero_section_heading{
+    font-size: 10.6px;
+  }
+  .support_currency{
+    width: 219px;
+    height: 40px;
+    /* margin-left: 116px; */
+  }
+  .support_currency_head{
+    font-size: 9px;
+  }
+  .support_currency_img{
+    width: 20.57px;
+    height: 20.46px;
+  }
+ .support_currency_sub{
+    width: 104px;
+    height: 30px;
+    background-color: #1A1A1A;
+  }
+  .support_currency_sub{
+    width: 104px;
+    height: 30px;
+    background-color: #1A1A1A;
+  }
+  .product_1{
+    text-align: center;
+  }
+  .product_btn{
+    width: 299px;
+    height: 65px;
+    background-color: #1C1C1C;
+    display: flex;
+    justify-content: space-around;
+    /* padding-top: 15px; */
+    margin-left: 50px;
+  }
+  .Individuals_btn{
+    width: 139px;
+    height: 41px;
+    background-color: #CAFF33;
+  }
+  .Businesses_btn{
+    width: 139px;
+    height: 41px;
+  }
+  .account_btn{
+    background-color: #CAFF33;
+    width: 120px;
+  }
+  .our_Product{
+    margin-top: 140px;
+  }
+  .checkingAccounts_img{
+    width: 72px;
+    height: 72px;
+  }
+  .checkingAccounts_para{
+    font-size: 14px;
+    color: #B3B3B3;
+  }
+  .Use_Cases_head{
+    text-align: center; margin-top: 100px;
+  }
+  .usecase_img {
+    width: 385px;
+    height: 370px;
+    cursor: pointer;
+}
+.percent_font{
+  font-size: 40px;
+  margin-top: 24px;
+}
+.lm_btn{
+  margin-top: 25px;
+}
+.features_list{
+  width: 308px;
+  height: 337px;
+  background-color: #1C1C1C;
+  display: flex;
+  flex-direction: row;
+}
+.features_list{
+  width: 366px;
+  height: 89px;
+  background-color: #1C1C1C;
+  padding-top: 12px;
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: center;
+  
+}
+.list_content{
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+.features_btn{
+  width: 208px;
+  height: 63px;
+}
+/* .feature_2{
+  margin-top: 20px;
+} */
+.faq_para_linear_first{
+  font-size: 14px;
+  color: #B3B3B3;
+}
+.faq_para_linear_last{
+  font-size: 14px;
+    color: #B3B3B3;
+    opacity: 65%;
+}
+.left_arrow{
+  display: none;
+}
+.arroy_btn_sm{
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.card_wrapper ul{
+  display: flex;
+  overflow-x: auto;
+}
+.card_style{
+  margin-left: 25px;
+}
+.cta_section{
+  text-align: center;
+  width: 358px;
+  height: 360px;
+  margin-left: 15px;
+}
+.oa_para{
+  margin-top: 20px;
+}
+.oa_btn{
+  margin-bottom: 12px;
+}
+.footer_info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.footer_info_2{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.social_img{
+  width: 44px;
+}
+.nav_style_footer_heading{
+  margin-top: 15px;
+  font-size: 12px;
+  font-weight: 300;
+}
+.For_Business{
+  margin-top: 250px;
+}
+.Use_Cases_head_2{
+  text-align: center; 
+  margin-top: 290px;
+}
+.usecase_img_2{
+  width: 345px;
+    height: 370px;
+    cursor: pointer;
+    margin-top: 300px;
+    margin-left: 12px;
+}
+  }
+
+
+  /* media quries 400px */
+  @media only screen and (max-width: 400px){
+    .Hero_section_2{
+      width: 305px; 
+      height: 380px;
+      border: 1px solid #22251B;
+      border-radius: 10px; 
+      margin-left: 17px;
+    }
+    .Hero_section_heading{
+      font-size: 10.6px;
+    }
+    .support_currency{
+      width: 219px;
+      height: 40px;
+      margin-left: 116px;
+    }
+    .support_currency_head{
+      font-size: 9px;
+    }
+    .support_currency_img{
+      width: 20.57px;
+      height: 20.46px;
+    }
+   .support_currency_sub{
+      width: 104px;
+      height: 30px;
+      background-color: #1A1A1A;
+    }
+    .product_btn{
+      width: 299px;
+      height: 65px;
+      background-color: #1C1C1C;
+      display: flex;
+      justify-content: space-evenly;
+      /* padding-top: 15px; */
+      margin-left: 20px;
+
+    }
+    .Individuals_btn{
+      width: 139px;
+      height: 41px;
+      background-color: #CAFF33;
+    }
+    .Businesses_btn{
+      width: 139px;
+      height: 41px;
+    }
+    .account_btn{
+      background-color: #CAFF33;
+      width: 120px;
+    }
+    .usecase_img {
+      width: 300px;
+      height: 370px;
+      cursor: pointer;
+  }
+  .card_wrapper{
+    display: block;
+    display: flex;
+    flex-direction: row; 
+    overflow-x: auto;
+  }
+   
+  }
+
+
+
+ 
+  @media only screen and (min-width: 1200px) {
+
+    .product_btn{
+      width: 386px;
+      height: 83px;
+      background-color: #1C1C1C;
+      display: flex;
+      justify-content: space-evenly;
+      padding-top: 15px;
+      margin-left: auto;
+    }
+    .Individuals_btn{
+      width: 181px;
+      height: 55px;
+      background-color: #CAFF33;
+    }
+    .Businesses_btn{
+      width: 181px;
+      height: 55px;
+    }
+    .account_btn{
+      background-color: #CAFF33;
+      width: 120px;
+    }
+    .transations{
+      width: 445px;
+      height: 75px;
+      background-color: #1C1C1C;
+    }
+    .price_tag{
+      margin-top: 33px;
+      font-size: 20px;
+  
+    }
+    .user_name{
+      font-size: 15px;
+    }
+    .transaction_list{
+      margin-top: 5px;
+    }
+    .transations2{
+      height: 75px;
+      background-color: #1C1C1C;
+      filter: brightness(85%);
+      margin-top: 100px;
+      width: auto;
+    }
+    .Hero_section_heading{
+      font-size: 17px;
+    }
+    .support_currency{
+      width: 370px;
+      height: 69px;
+      margin-top: 378px;
+      display: flex;
+      justify-content: space-around;
+      margin-top: 12px;
+    }
+    .support_currency_sub{
+      width: 176px;
+      height: 52px;
+      background-color: #1A1A1A;
+    }
+    .support_currency_img{
+      width: 34px;
+    }
+    .support_currency_head{
+      font-size: 15px;
+    }
+    .support_currency_head_container{
+      padding-top: 22px;
+    }
+    
+    .product_2{
+      margin-top: 57px;
+    }
+    .our_Product{
+      margin-top: 140px;
+    }
+    .checkingAccounts{
+      margin-left: 12px;
+    }
+  .checkingAccounts_img{
+    width: 74px;
+    height: 74px;
+  }
+  .checkingAccounts_para{
+    font-size: 18px;
+    color: #B3B3B3;
+  }
+  .div_border{
+    border-right: 1px solid;
+  }
+  .checkingAccounts_heading{
+    font-size: 24px;
+  }
+  .usecase_img{
+    width: 100%;
+    height: 500px;
+    cursor: pointer;
+  }
+  .lm_btn{
+    margin-top: 100px;
+  }
+  .features_list{
+    width: 308px;
+    height: 337px;
+    background-color: #1C1C1C;
+    padding-top: 12px;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .list_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .features_btn{
+    width: 208px;
+    height: 63px;
+  }
+  .faq_para{
+    font-size: 14px;
+  }
+  .faq_head{
+    font-size: 16px;
+  }
+  /* .faq_card{
+    border: 1px solid red;
+  } */
+  .faq_para_linear{
+    font-size: 14px;
+    color: #B3B3B3;
+    opacity: 60%;
+  }
+  .left_arrow_img{
+    width: 62px;
+  }
+  .card_wrapper{
+    display: flex;
+    ::-webkit-scrollbar{
+      display: none;
+    }
+  }
+  .left_arrow{
+    margin-top: 130px;
+  }
+  .arroy_btn_sm{
+    display: none;
+  }
+  .card_wrapper ul{
+    display: flex;
+    overflow-x: auto;
+  }
+  .card_style{
+    background-color: #1A1A1A;
+  }
+  .card_section{
+    margin-top: 45px;
+  }
+  .cta_section{
+    width: 100%;
+    height: 150px;
+    padding-top: 37px;
+    padding-left: 50px;
+  }
+  .nav_style_footer{
+    width: 100%;
+    height: 84px;
+    background-color: #1A1A1A;
+    display: flex;
+    justify-content: space-between;
+  }
+  .social_img{
+    width: 45px;
+  }
+  .nav_style_footer_heading{
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  .usecase_img_2{
+    width: 90%;
+    height: 500px;
+  }
+  }
+  .nav_btn:hover{
+    background-color: #262626; 
+  }
+  .sign_btn:hover{
+    background-color: #262626;
+
+  }
+  .sign_btn{
+    background-color: transparent;
+    color: white;
+  }
+
+
